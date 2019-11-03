@@ -9,3 +9,13 @@ E:\VS2017\EmployeeApplication\EmployeeApplication\obj\Debug\netcoreapp2.0\Employ
 E:\VS2017\EmployeeApplication\EmployeeApplication\obj\Debug\netcoreapp2.0\EmployeeApplication.AssemblyInfo.cs
 E:\VS2017\EmployeeApplication\EmployeeApplication\obj\Debug\netcoreapp2.0\EmployeeApplication.dll
 E:\VS2017\EmployeeApplication\EmployeeApplication\obj\Debug\netcoreapp2.0\EmployeeApplication.pdb
+C:\Projects\MVCCoreApp\EmployeeApplication\EmployeeApplication\bin\Debug\netcoreapp2.0\EmployeeApplication.deps.json
+C:\Projects\MVCCoreApp\EmployeeApplication\EmployeeApplication\bin\Debug\netcoreapp2.0\EmployeeApplication.runtimeconfig.json
+C:\Projects\MVCCoreApp\EmployeeApplication\EmployeeApplication\bin\Debug\netcoreapp2.0\EmployeeApplication.runtimeconfig.dev.json
+C:\Projects\MVCCoreApp\EmployeeApplication\EmployeeApplication\bin\Debug\netcoreapp2.0\EmployeeApplication.dll
+C:\Projects\MVCCoreApp\EmployeeApplication\EmployeeApplication\bin\Debug\netcoreapp2.0\EmployeeApplication.pdb
+C:\Projects\MVCCoreApp\EmployeeApplication\EmployeeApplication\obj\Debug\netcoreapp2.0\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Projects\MVCCoreApp\EmployeeApplication\EmployeeApplication\obj\Debug\netcoreapp2.0\EmployeeApplication.AssemblyInfoInputs.cache
+C:\Projects\MVCCoreApp\EmployeeApplication\EmployeeApplication\obj\Debug\netcoreapp2.0\EmployeeApplication.AssemblyInfo.cs
+C:\Projects\MVCCoreApp\EmployeeApplication\EmployeeApplication\obj\Debug\netcoreapp2.0\EmployeeApplication.dll
+C:\Projects\MVCCoreApp\EmployeeApplication\EmployeeApplication\obj\Debug\netcoreapp2.0\EmployeeApplication.pdb

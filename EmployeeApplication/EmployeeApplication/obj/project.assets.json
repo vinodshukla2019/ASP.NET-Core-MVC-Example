@@ -13115,26 +13115,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sandeep\\.nuget\\packages\\": {},
+    "C:\\Users\\kr.vinod.shukla\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "E:\\GitSource\\ASP.NET-Core-MVC-Example\\EmployeeApplication\\EmployeeApplication\\EmployeeApplication.csproj",
+      "projectUniqueName": "C:\\Projects\\MVCCoreApp\\EmployeeApplication\\EmployeeApplication\\EmployeeApplication.csproj",
       "projectName": "EmployeeApplication",
-      "projectPath": "E:\\GitSource\\ASP.NET-Core-MVC-Example\\EmployeeApplication\\EmployeeApplication\\EmployeeApplication.csproj",
-      "packagesPath": "C:\\Users\\Sandeep\\.nuget\\packages\\",
-      "outputPath": "E:\\GitSource\\ASP.NET-Core-MVC-Example\\EmployeeApplication\\EmployeeApplication\\obj\\",
+      "projectPath": "C:\\Projects\\MVCCoreApp\\EmployeeApplication\\EmployeeApplication\\EmployeeApplication.csproj",
+      "packagesPath": "C:\\Users\\kr.vinod.shukla\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\MVCCoreApp\\EmployeeApplication\\EmployeeApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Sandeep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kr.vinod.shukla\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13158,18 +13155,18 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "Microsoft.AspNetCore.All": {
             "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.0, )"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           },
-          "Microsoft.AspNetCore.All": {
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.0, )"
           }
         },
         "imports": [
